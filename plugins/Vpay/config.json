@@ -1,0 +1,8 @@
+{
+    "name": "VPay",
+    "code": "vpay",
+    "type": "payment",
+    "version": "1.0.0",
+    "description": "VPay payment plugin",
+    "author": "XBoard Team"
+}
