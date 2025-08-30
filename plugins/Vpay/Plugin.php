@@ -105,7 +105,7 @@ public function pay($order): array
 
     public function notify($params): array|bool
     {
-	$key = "secret_key";
+	$key = $this->getConfig('key');
 	$payId = $params['payId'];
 	$param = $params['param'];
 	$type = $params['type'];
