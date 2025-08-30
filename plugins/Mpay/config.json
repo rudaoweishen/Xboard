@@ -1,0 +1,8 @@
+{
+    "name": "MPay",
+    "code": "mpay",
+    "type": "payment",
+    "version": "1.0.0",
+    "description": "MPay payment plugin",
+    "author": "XBoard Team"
+}

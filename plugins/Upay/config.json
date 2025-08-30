@@ -1,0 +1,8 @@
+{
+    "name": "UPay",
+    "code": "upay",
+    "type": "payment",
+    "version": "1.0.0",
+    "description": "UPay payment plugin",
+    "author": "XBoard Team"
+}
